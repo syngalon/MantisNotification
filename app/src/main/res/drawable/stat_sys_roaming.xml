@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2016-2023 Unisoc (Shanghai) Technologies Co., Ltd
+     SPDX-License-Identifier: LicenseRef-Unisoc-General-1.0
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="3dp"
+    android:height="5dp"
+    android:viewportWidth="3"
+    android:viewportHeight="5">
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0.697,2.788v1.541H0.216V0.776h1.216c0.389,0,0.686,0.086,0.891,0.259s0.309,0.423,0.309,0.752 c0,0.182-0.048,0.341-0.144,0.476C2.393,2.398,2.254,2.505,2.071,2.585c0.195,0.063,0.336,0.167,0.421,0.309 c0.086,0.143,0.129,0.319,0.129,0.528v0.335c0,0.11,0.012,0.21,0.036,0.298s0.066,0.16,0.127,0.215v0.059H2.289 C2.225,4.273,2.185,4.191,2.166,4.084C2.148,3.977,2.14,3.865,2.14,3.752V3.428c0-0.192-0.056-0.348-0.169-0.464 C1.859,2.846,1.709,2.788,1.52,2.788H0.697z M0.697,2.409h0.686c0.271,0,0.468-0.052,0.587-0.155c0.12-0.103,0.18-0.261,0.18-0.472 c0-0.2-0.059-0.355-0.175-0.465C1.858,1.207,1.678,1.152,1.432,1.152H0.697V2.409z" />
+</vector>
